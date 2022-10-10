@@ -1,2 +1,2 @@
 # RadixSort
-Radix sort implementation using python
+A simple radix sort implementation using python
